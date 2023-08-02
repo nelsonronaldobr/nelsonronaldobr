@@ -33,7 +33,7 @@ Soy un desarrollador Jr. full-stack con una sed insaciable de aprender y crecer 
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=nextdotjs" />
  <img src="https://img.shields.io/badge/express.js-339933?style=for-the-badge&logo=express" />
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 <br/>  
 
