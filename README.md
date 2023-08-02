@@ -41,7 +41,7 @@ Soy un desarrollador Jr. full-stack con una sed insaciable de aprender y crecer 
  <br>
 <div align="center">
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=nelsonronaldobr&theme=onedark&column=-1&margin-w=15&no-frame=true&margin-h=15&title=Joined2020,PullRequest,Commits,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=nelsonronaldobr&theme=onedark&column=3&margin-w=15&no-frame=true&margin-h=15&title=Joined2020,PullRequest,Commits,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
  
 <a align="center"><img src="https://github-readme-stats.vercel.app/api?username=nelsonronaldobr&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center"/></a>
 <a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonronaldobr&hide_border=true&layout=compact&theme=onedark" align="center" /></a>
