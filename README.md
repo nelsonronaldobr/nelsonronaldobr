@@ -54,7 +54,11 @@ Soy un desarrollador Jr. full-stack con una sed insaciable de aprender y crecer 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
 <br>
 <div align="center"> 
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=nelsonronaldobr&title=Joined2020,PullRequest,Commits,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 <a align="center"><img src="https://github-readme-stats.vercel.app/api?username=nelsonronaldobr&show_icons=true&count_private=true&hide_border=true" align="center"/></a>
 <a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonronaldobr&hide_border=true&layout=compact" align="center" /></a>
+ 
 </div>
-<br/>  
+<br/>
